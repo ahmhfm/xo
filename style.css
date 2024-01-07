@@ -101,7 +101,7 @@ body{
 {
     .main {
         width: 95vw;
-        height: 80vh;
+        height: 98vh;
 
         justify-content: space-between;
     }
@@ -110,8 +110,8 @@ body{
         height: 95vw;
     }
     
-    .footer{
-        
+    .footer button{
+        height: 50px;
     }
 }
 
