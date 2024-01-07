@@ -100,16 +100,18 @@ body{
 @media(max-width:650px)
 {
     .main {
-        width: 400px;
-        height: 400px;
+        width: 95vw;
+        height: 95vh;
+
+        justify-content: space-between;
+    }
+
+    .grid{
+        height: 95vw;
+    }
+    
+    .footer{
+        
     }
 }
 
-
-@media(max-width:450px)
-{
-    .main {
-        width: 250px;
-        height: 250px;
-    }
-}
